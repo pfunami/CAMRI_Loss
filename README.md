@@ -6,7 +6,7 @@ by TensorFlow.
 In multi-class classification problems, CAMRI loss can improve recall of the specific class(es) without sacrificing
 accuracy comparing to cross-entropy loss.
 
-Our paper & poster corresponding to this implementation is following:
+Our paper & poster corresponding to this implementation are followings:
 
 - Paper: TBA (The paper has already been published
   on [IEEE WCCI 2022 IJCNN track (Padova, Italy)](https://wcci2022.org/programs/). Please wait until it becomes public.)
