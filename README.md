@@ -8,9 +8,9 @@ accuracy comparing to cross-entropy loss.
 
 Our paper & poster corresponding to this implementation is following:
 
-TBA (The paper has already been published
+- TBA (The paper has already been published
 on [IEEE WCCI 2022 IJCNN track (Padova, Italy)](https://wcci2022.org/programs/). Please wait until it becomes public.)
-
+- [Poster]()
 ## Abstract
 
 From our paper:
