@@ -42,15 +42,15 @@ From our paper:
 .
 ├── README.md
 ├── conda_requirements.txt
-├── config.ini     # configuration file (e.g., important class, margin, scale, ...)
+├── config.ini      # configuration file (e.g., important class, margin, scale, ...)
 ├── out
 │   ├── log
 │   └── model
 └── src
-├── archs.py    # define the model architecture
-├── camri.py    # define CAMRI loss
-├── eval.py     # callback function for each epoch
-└── train.py    # main code for training the model
+    ├── archs.py    # define the model architecture
+    ├── camri.py    # define CAMRI loss
+    ├── eval.py     # callback function for each epoch
+    └── train.py    # main code for training the model
 ```
 
 ## Citation
