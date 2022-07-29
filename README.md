@@ -9,8 +9,9 @@ accuracy comparing to cross-entropy loss.
 Our paper & poster corresponding to this implementation is following:
 
 - Paper: TBA (The paper has already been published
-on [IEEE WCCI 2022 IJCNN track (Padova, Italy)](https://wcci2022.org/programs/). Please wait until it becomes public.)
+  on [IEEE WCCI 2022 IJCNN track (Padova, Italy)](https://wcci2022.org/programs/). Please wait until it becomes public.)
 - [Poster](https://github.com/pfunami/CAMRI_Loss/blob/master/doc/ijcnn_camri.pdf)
+
 ## Abstract
 
 From our paper:
@@ -47,17 +48,26 @@ From our paper:
 │   ├── log
 │   └── model
 └── src
-    ├── archs.py    # define the model architecture
-    ├── camri.py    # define CAMRI loss
-    ├── eval.py     # callback function for each epoch
-    └── train.py    # main code for training the model
+├── archs.py    # define the model architecture
+├── camri.py    # define CAMRI loss
+├── eval.py     # callback function for each epoch
+└── train.py    # main code for training the model
 ```
 
 ## Citation
 
 TBA
 
+## Contact
+
+Daiki Nishiyama (First Author)
+
+- Affiliation: University of Tsukuba, Japan
+- Mail: nsym [at] mdl.cs.tsukuba.ac.jp
+
 ## P.S.
-Shortly after submitting the paper on CAMRI loss, my beloved car, CAMRY, was involved in a rear-end collision and was scrapped 😭
+
+Shortly after submitting the paper on CAMRI loss, my beloved car, CAMRY, was involved in a rear-end collision and was
+scrapped 😭
 
 In other words, when I proposed CAMRI loss, CAMRY was lost 😇
