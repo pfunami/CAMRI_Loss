@@ -48,10 +48,10 @@ From our paper:
 │   ├── log
 │   └── model
 └── src
-├── archs.py    # define the model architecture
-├── camri.py    # define CAMRI loss
-├── eval.py     # callback function for each epoch
-└── train.py    # main code for training the model
+    ├── archs.py    # define the model architecture
+    ├── camri.py    # define CAMRI loss
+    ├── eval.py     # callback function for each epoch
+    └── train.py    # main code for training the model
 ```
 
 ## Citation
