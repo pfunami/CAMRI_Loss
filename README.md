@@ -56,3 +56,8 @@ From our paper:
 ## Citation
 
 TBA
+
+## P.S.
+Shortly after submitting the paper on CAMRI loss, my beloved car, CAMRY, was involved in a rear-end collision and was scrapped 😭
+
+In other words, when I proposed CAMRI loss, CAMRY was lost 😇
