@@ -58,7 +58,15 @@ Using conda env
 
 ## Citation
 
-TBA
+```angular2html
+@inproceedings{Nishiyama-IJCNN-2022,
+   author = {Daiki Nishiyama and Kazuto Fukuchi and Youhei Akimoto and Jun Sakuma},
+   booktitle = {2022 International Joint Conference on Neural Networks (IJCNN)},
+   title = {CAMRI Loss: Improving Recall of a Specific Class without Sacrificing Accuracy},
+   number = {503},
+   year = {2022},
+}
+```
 
 ## Contact
 
