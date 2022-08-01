@@ -44,9 +44,11 @@ Using conda env
 ├── README.md
 ├── conda_requirements.txt
 ├── config.ini      # configuration file (e.g., important class, margin, scale, ...)
-├── out
+├── out             # examples of the trained model file and the log file
 │   ├── log
+│   │   └── cifar10_3cat_m4-64_scale16_seed0.csv
 │   └── model
+│       └── cifar10_3cat_m4-64_scale16_seed0.h5
 └── src
     ├── archs.py    # define the model architecture
     ├── camri.py    # define CAMRI loss
