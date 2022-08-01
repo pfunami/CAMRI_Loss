@@ -44,7 +44,7 @@ Using conda env
 ├── README.md
 ├── conda_requirements.txt
 ├── config.ini      # configuration file (e.g., important class, margin, scale, ...)
-├── out             # examples of the trained model file and the log file
+├── out             # examples of a trained model file and a log file
 │   ├── log
 │   │   └── cifar10_3cat_m4-64_scale16_seed0.csv
 │   └── model
