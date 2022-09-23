@@ -8,8 +8,8 @@ accuracy comparing to cross-entropy loss.
 
 Our paper & poster corresponding to this implementation are followings:
 
-- Paper: TBA (The paper has already been published
-  on [IEEE WCCI 2022 IJCNN track (Padova, Italy)](https://wcci2022.org/programs/). Please wait until it becomes public.)
+- [Paper](https://arxiv.org/abs/2209.10920) (The author version of the paper accepted by IJCNN ’22, July 18-23,
+2022, Padua, Italy.)
 - [Poster](https://github.com/pfunami/CAMRI_Loss/blob/master/doc/ijcnn_camri.pdf)
 
 ## Abstract
