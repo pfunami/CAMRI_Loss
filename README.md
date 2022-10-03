@@ -7,8 +7,8 @@ In multi-class classification problems, CAMRI loss can improve recall of the spe
 accuracy comparing to cross-entropy loss.
 
 Our paper & poster corresponding to this implementation are followings:
-
-- [Paper](https://arxiv.org/abs/2209.10920) (The author version of the paper accepted by IJCNN ’22, July 18-23,
+- [Paper](https://ieeexplore.ieee.org/document/9892108) (IJCNN ’22, July 18-23, 2022, Padua, Italy.)
+- [Preprint](https://arxiv.org/abs/2209.10920) (The author version of the paper accepted by IJCNN ’22, July 18-23,
 2022, Padua, Italy.)
 - [Poster](https://github.com/pfunami/CAMRI_Loss/blob/master/doc/ijcnn_camri.pdf)
 
@@ -59,13 +59,15 @@ Using conda env
 ## Citation
 
 ```angular2html
-@inproceedings{Nishiyama-IJCNN-2022,
-   author = {Daiki Nishiyama and Kazuto Fukuchi and Youhei Akimoto and Jun Sakuma},
-   booktitle = {2022 International Joint Conference on Neural Networks (IJCNN)},
-   title = {CAMRI Loss: Improving Recall of a Specific Class without Sacrificing Accuracy},
-   number = {503},
-   year = {2022},
-}
+@INPROCEEDINGS{9892108,
+    author={Nishiyama, Daiki and Fukuchi, Kazuto and Akimoto, Youhei and Sakuma, Jun},
+    booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},   
+    title={CAMRI Loss: Improving Recall of a Specific Class without Sacrificing Accuracy}, 
+    year={2022},  
+    volume={},  
+    number={}, 
+    pages={1-8},
+    doi={10.1109/IJCNN55064.2022.9892108}}
 ```
 
 ## Contact
